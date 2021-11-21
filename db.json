@@ -11,8 +11,8 @@
             "constellation": "Princeps Cretaceus",
             "birthday": "0000-09-13",
             "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
-            "images": "assets/character/albedo.png",
-        }
+            "images": "assets/character/albedo.png"
+        },
         {
             "id": 2,
             "name": "Amber",
@@ -27,8 +27,8 @@
             "constellation": "Lepus",
             "birthday": "0000-08-10",
             "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
-            "images": "assets/character/amber.png",
-        }
+            "images": "assets/character/amber.png"
+        },
         {
             "id": 3,
             "name": "Beidou",
@@ -40,8 +40,8 @@
             "constellation": "Victor Mare",
             "birthday": "0000-02-14",
             "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
-            "images": "assets/character/beidou.png",        
-        }
+            "images": "assets/character/beidou.png"        
+        },
         {
             "id": 4,
             "name": "Fischl",
@@ -53,8 +53,8 @@
             "constellation": "Corvus",
             "birthday": "0000-05-27",
             "description": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
-            "images": "assets/character/fischl.png",
-        }
+            "images": "assets/character/fischl.png"
+        },
         {
             "id": 5,
             "name": "Kaedehara Kazuha",
@@ -66,8 +66,8 @@
             "constellation": "Acer Palmatum",
             "birthday": "0000-10-29",
             "description": "If one's heart is empty, all under heaven is empty. But if one's heart is pure, all under heaven is pure.",
-            "images": "assets/character/kazuha.png",
-        }
+            "images": "assets/character/kazuha.png"
+        },
         {
             "id": 6,
             "name": "Klee",
@@ -79,8 +79,8 @@
             "constellation": "Trifolium",
             "birthday": "0000-07-27",
             "description": "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
-            "images": "assets/character/klee.png",        
-        }
+            "images": "assets/character/klee.png"        
+        },
         {
             "id": 7,
             "name": "Ningguang",
@@ -92,8 +92,8 @@
             "constellation": "Opus Aequilibrium",
             "birthday": "0000-08-26",
             "description": "The Tianquan of Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",          
-            "images": "assets/character/ningguang.png",        
-        }
+            "images": "assets/character/ningguang.png"        
+        },
         {
             "id": 8,
             "name": "Raiden Shogun",
@@ -105,8 +105,8 @@
             "constellation": "Imperatrix Umbrosa",
             "birthday": "0000-06-26",
             "description": "Her Excellency, the Almighty, Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
-            "images": "assets/character/raiden.png",        
-        }
+            "images": "assets/character/raiden.png"        
+        },
         {
             "id": 9,
             "name": "Tartaglia",
@@ -118,7 +118,7 @@
             "constellation": "Monoceros Caeli",
             "birthday": "0000-07-20",
             "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
-            "images": "assets/character/tartaglia.png",
+            "images": "assets/character/tartaglia.png"
         }
 
     ]
